@@ -1,0 +1,2 @@
+Navigating in the linux terminal faster helps in modifying the commands that were used already.
+Refer this [cheat sheet](https://itsfoss.com/linux-terminal-shortcuts/) to navigate in the terminal faster. 

@@ -1,0 +1,1 @@
+Default editor in Linux and so learning the shortcuts improves the productivity. Refer this [cheat sheet](https://vim.rtorr.com/) to become pro in vim.
